@@ -22,7 +22,7 @@ The PiNN is trained using:
 - **Material parameters**:
   - Young's Modulus (E): 50000 kN/m^2   (for example) to compare with FEM from Plaxis2d
   - Poisson's Ratio (ν): 0.3
-  - Unit Weight (γ): 18000 N/m³ (for example) to compare with FEM from Plaxis2d
+  - Unit Weight (γ): 18 kN/m³ (for example) to compare with FEM from Plaxis2d
 - **Boundary Conditions**: Fixed displacements on the bottom, left, and right sides.
 
 ## Result
