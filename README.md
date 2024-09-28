@@ -27,13 +27,13 @@ The PiNN is trained using:
 
 ## Result
 
-![Slope Stability Visualization](ux.png)
-![Slope Stability Visualization](uy.png)
+[Slope Stability Visualization](ux.png)
+[Slope Stability Visualization](uy.png)
 
-![Slope Stability Visualization](sigma_xx.png)
+[Slope Stability Visualization](sigma_xx.png)
 
-![Slope Stability Visualization](sigma_yy.png)
-![Slope Stability Visualization](sigma_xy.png)
+[Slope Stability Visualization](sigma_yy.png)
+[Slope Stability Visualization](sigma_xy.png)
 
 ## Installation
 
