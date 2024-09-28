@@ -20,9 +20,9 @@ The PiNN models a 2D slope problem using physics equations (linear elastic and g
 The PiNN is trained using:
 - **Physics equations**: 2D linear elastic 
 - **Material parameters**:
-  - Young's Modulus (E): 5000 N/m^2   (for example) to compare with FEM from Plaxis2d
+  - Young's Modulus (E): 50000 kN/m^2   (for example) to compare with FEM from Plaxis2d
   - Poisson's Ratio (ν): 0.3
-  - Unit Weight (γ): 1000 N/m³ (for example) to compare with FEM from Plaxis2d
+  - Unit Weight (γ): 18000 N/m³ (for example) to compare with FEM from Plaxis2d
 - **Boundary Conditions**: Fixed displacements on the bottom, left, and right sides.
 
 ## Result
