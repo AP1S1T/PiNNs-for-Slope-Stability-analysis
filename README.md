@@ -4,7 +4,7 @@ This project uses a **Physics-Informed Neural Network (PiNN)** to analyze slope 
 
 ## Overview
 
-The PiNN models a 2D slope problem using physics equations (elasticity and gravity). It aims to predict slope stability in a way similar to traditional methods like **Finite Element Method (FEM)**.
+The PiNN models a 2D slope problem using physics equations (linear elastic and gravity). It aims to predict slope stability in a way similar to traditional methods like **Finite Element Method (FEM)**.
 
 ## Features
 - Predicts slope stability using PiNN.
@@ -18,7 +18,7 @@ The PiNN models a 2D slope problem using physics equations (elasticity and gravi
 ## Model Details
 
 The PiNN is trained using:
-- **Physics equations**: 2D elasticity with gravity.
+- **Physics equations**: 2D linear elastic 
 - **Material parameters**:
   - Young's Modulus (E): 5000 N/m^2   (for example) to compare with FEM from Plaxis2d
   - Poisson's Ratio (ν): 0.3
