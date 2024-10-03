@@ -41,3 +41,4 @@ Install the necessary tools using:
 ```bash
 pip install torch matplotlib numpy
 pip install pandas
+pip install pytorch
