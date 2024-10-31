@@ -24,7 +24,7 @@ The PiNN is trained using:
   - Poisson's Ratio (ν): 0.3
   - Unit Weight (γ): 18 kN/m³ (for example) to compare with FEM from Plaxis2d
 - **Boundary Conditions**: Fixed displacements on the bottom, left, and right sides.
-  ![Slope Stability Visualization - Dimension](Dimension1.png)
+  ![Slope Stability Visualization - Dimension](Dimension.png)
 
 ## Result
 
