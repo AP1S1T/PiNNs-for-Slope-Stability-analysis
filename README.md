@@ -35,6 +35,13 @@ The PiNN is trained using:
 ![Slope Stability Visualization](RMSE.png)
 ![Slope Stability Visualization](Heatmap_Grid_search.png)
 
+## Reference
+-  Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations. Journal of Computational Physics, 378, 686–707.
+
+## 👨‍💻 Author
+-  **Apisit Robjanghvad** : Undergraduate Student, Department of Civil Engineering **King Mongkut's University of Technology Thonburi (KMUTT)**
+Email: [apisit65a@gmail.com] 
+
 ## Installation
 
 Install the necessary tools using:
