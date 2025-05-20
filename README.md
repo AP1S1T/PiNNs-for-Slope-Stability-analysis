@@ -28,7 +28,7 @@ The PiNN is trained using:
 
 ## Result
 
-![Slope Stability Visualization](Result.png)
+![Slope Stability Visualization](Image/PINNs_result.png)
 ![Slope Stability Visualization](Image/Data-point-comparison.png)
 ![Slope Stability Visualization](FEM.png)
 ![Slope Stability Visualization](Absolute_error.png)
