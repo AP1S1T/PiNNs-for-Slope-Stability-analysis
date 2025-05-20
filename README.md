@@ -25,6 +25,7 @@ The PiNN is trained using:
   - Unit Weight (γ): 18 kN/m³ (for example) to compare with FEM from Plaxis2d
 - **Boundary Conditions**: Fixed displacements on the bottom, left, and right sides.
   ![Slope Stability Visualization - Dimension](Dimension_2.JPG)
+  ![Slope Stability Visualization](Image/PINNs_workflow.JPG)
 
 ## Result
 ![Slope Stability Visualization](Image/Loss.png)
