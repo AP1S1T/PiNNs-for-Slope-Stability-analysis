@@ -27,11 +27,11 @@ The PiNN is trained using:
   ![Slope Stability Visualization - Dimension](Dimension_2.JPG)
 
 ## Result
-
+![Slope Stability Visualization](Image/Loss.png)
 ![Slope Stability Visualization](Image/PINNs_result.png)
-![Slope Stability Visualization](Image/Data-point-comparison.png)
 ![Slope Stability Visualization](FEM.png)
-![Slope Stability Visualization](Absolute_error.png)
+![Slope Stability Visualization](Image/Absolute_error.png)
+![Slope Stability Visualization](Image/Data_point.png)
 ![Slope Stability Visualization](RMSE.png)
 ![Slope Stability Visualization](Heatmap_Grid_search.png)
 
