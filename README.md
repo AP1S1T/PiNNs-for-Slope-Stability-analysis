@@ -30,14 +30,8 @@ The PiNN is trained using:
 ## Result
 ![Slope Stability Visualization](Image/Loss.png)
 ![Slope Stability Visualization](Image/PINNs_results.png)
-
 ![Slope Stability Visualization](Image/FEM_results.png)
-![Slope Stability Visualization](Image/Absolute_error.png)
-![Slope Stability Visualization](Image/Data_point.png)
-![Slope Stability Visualization](Image/Epoch_comparison.png)
-![Slope Stability Visualization](Image/RMSE_Heatmap.png)
-![Slope Stability Visualization](Image/TFlops_vs_Epoch.png)
-![Slope Stability Visualization](Image/TFLOPs_vs_Number_Neuron.png)
+
 
 ## Reference
 -  Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations. Journal of Computational Physics, 378, 686–707.
