@@ -25,13 +25,13 @@ The PiNN is trained using:
   - Unit Weight (γ): 18 kN/m³ (for example) to compare with FEM from Plaxis2d
 - **Boundary Conditions**: Fixed displacements on the bottom, left, and right sides.
   ![Slope Stability Visualization - Dimension](Dimension_2.JPG)
-  ![Slope Stability Visualization](Image/PINNs_workflow.JPG)
+  ![Slope Stability Visualization](Image/Workflows.jpg)
 
 ## Result
 ![Slope Stability Visualization](Image/Loss.png)
-![Slope Stability Visualization](Image/PINNs_results.png)
+![Slope Stability Visualization](Image/Result_PINNs.png)
 ![Slope Stability Visualization](Image/FEM_results.png)
-
+![Slope Stability Visualization](Image/Relative_error_PINNs_vs_FEM.png)
 
 ## Reference
 -  Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations. Journal of Computational Physics, 378, 686–707.
